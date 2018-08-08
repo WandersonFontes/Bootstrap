@@ -35,6 +35,22 @@
               <input type="text" class="form-control" id="name">
               <label for="email">Email</label>
               <input type="text" class="form-control" id="email">
+              <label for="password">Senha</label>
+              <input type="text" class="form-control" id="password">
+              <div class="checkbox">
+                <label>
+                  <input type="checkbox" name="">
+                Quero ir pra casa!
+                </label>
+                <div class="radio">
+                <label>
+                  <input type="radio" name="">
+                Html
+                </label>
+                <label>
+                  <input type="radio" name="">
+                Css
+              </div>
               <br>
               <button type="submit" class="btn btn-primary" >Enviar Agora</button>
             </div>
@@ -45,6 +61,8 @@
 
       <div class="caixa col-md-4 col-sm-4 col-xs-4">
           <h2> Login </h2sss>
+          <br>
+          <button type="submit" class="btn btn-primary">Faça seu Login</button>
     </div>
 
 
